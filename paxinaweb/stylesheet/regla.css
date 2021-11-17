@@ -1,6 +1,11 @@
 #div4{
- background-color: #black;
+ background-color: black;
    right: 50px;
    bottom: 50px;
 
+}
+
+.h1{
+	font-weight: bolder;
+	color: darkred;
 }
